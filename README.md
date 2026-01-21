@@ -7,6 +7,26 @@ O projeto foca na experiência do usuário, organização visual e fluxo de comp
 
 Este projeto foi desenvolvido com fins educacionais, aplicando boas práticas de componentização, organização de código e validação de formulários, sendo ideal para demonstração em portfólio profissional.
 
+## 📸 Screenshots do Projeto
+
+### 🏠 Home – Categorias e Ofertas do Dia
+
+<p align="center">
+  <img src="src/assets/screenshots/home.png" width="45%" margin-bottom:30px />
+ <img src="src/assets/screenshots/cardapio+ofertadodia.png" width="45%" />
+</p>
+
+### 📋 Cardápio
+<p align="center">
+  <img src="src/assets/screenshots/cardapio.png" width="45%" />
+ <img src="src/assets/screenshots/cardapio-produtos.png" width="45%" />
+</p>
+
+### 🛒 Carrinho de Compras
+<p align="center">
+  <img src="src/assets/screenshots/carrinho.png" width="45%" />
+</p>
+
 ---
 
 ## 🚀 Funcionalidades
